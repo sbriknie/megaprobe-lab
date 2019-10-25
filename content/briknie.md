@@ -28,6 +28,19 @@ By being part of the MegapProbe Lab I aim to improve my research abilities and l
 
 ### Weekly UPDATES (LOADING, PLEASE WAIT...)
 
+#### Week 10: (21-25/Oct)
+- I presented the seq-seq-pan paper
+- Now I have to understand what Luis is doing and try to collab with him
+
+#### Week 9: (14-18/Oct)
+- This was a very odd week at UPR-RP 🧐 
+
+#### Week 8: (7-11/Oct)
+- I understood better how seq-seq-pan works and started creating plots in R
+
+#### Week 6 & 7: (23-27/Sep | 30-4/Sep-Oct)
+- I think I was hijacked by a supernatural entity because I don't remember what I did here
+
 #### Week 5: (16-20/Sep)
 - I found a program called Mauve that look's like a good tool for the idea of the Pan-genome
 
